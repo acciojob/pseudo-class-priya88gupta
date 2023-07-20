@@ -3,6 +3,7 @@
 	content:"Befor Element ";
 	color:red;
 	font-size:25px;
+	
 }
 .sentence::after{
 	content:"After Element ";
