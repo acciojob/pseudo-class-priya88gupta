@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.sentence::before{
+	content:"Befor Element ";
+	color:red;
+	font-size:25px;
+}
+.sentence::after{
+	content:"After Element ";
+	font-size:25px;
+	color:red;
+}
