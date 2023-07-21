@@ -1,12 +1,9 @@
 /*  your css code here. If applicable */
-.sentence::before{
+div::before{
 	content:"Before Element ";
-	color:red;
-	font-size:25px;
-	
+	color:red;	
 }
-.sentence::after{
+div::after{
 	content:"After Element ";
-	font-size:25px;
 	color:red;
 }
